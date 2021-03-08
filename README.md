@@ -1,6 +1,6 @@
 # Tresor_portfolio
 
-# [Project 1: Scraping reviews on Amazon] (https://github.com/tresor98/amazon_scraping_reviews)
+# [Project 1: Scraping reviews on Amazon](https://github.com/tresor98/amazon_scraping_reviews)
 Scraping through reviews on amazon given a list of product ids
 The first code (amazon_reviews.ipynb) scrape syncronously thus is a bit slower
 The second code(faster_webscraping) scrapes asyncrously thus going faster
